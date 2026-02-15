@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+pymanopt
+autograd
+geomstats
+matplotlib
